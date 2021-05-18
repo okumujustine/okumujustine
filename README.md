@@ -18,4 +18,5 @@
 1.  Created pull request [#368](https://github.com/divanov11/Mumble/pull/368) in [Opensource Mumble Repo](https://github.com/divanov11/Mumble)
 2.  Created pull request [#382](https://github.com/divanov11/Mumble/pull/382) in [Opensource Mumble Repo](https://github.com/divanov11/Mumble)
 3. Opened Issue [#131](https://github.com/divanov11/mumbleapi/issues/131) in [Mumble API Repo](https://github.com/divanov11/mumbleapi)
+4. Created pull request [#133](https://github.com/divanov11/mumbleapi/pull/133) in [Mumble API Repo](https://github.com/divanov11/mumbleapi)
 <!--END_SECTION:activity-->
