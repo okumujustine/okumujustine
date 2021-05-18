@@ -13,3 +13,9 @@
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=okumujustine&theme=tokyonight" />
 </p>
+
+<!--START_SECTION:activity-->
+1.  Created pull request [#368](https://github.com/divanov11/Mumble/pull/368) in [Opensource Mumble Repo](https://github.com/divanov11/Mumble)
+2.  Created pull request [#382](https://github.com/divanov11/Mumble/pull/382) in [Opensource Mumble Repo](https://github.com/divanov11/Mumble)
+3. Opened Issue [#131](https://github.com/divanov11/mumbleapi/issues/131) in [Mumble API Repo](https://github.com/divanov11/mumbleapi)
+<!--END_SECTION:activity-->
