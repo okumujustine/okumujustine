@@ -1,7 +1,7 @@
 <h2> Hi, am Justine Okumu 👋 </h2>
 
 - 🔭 I’m currently working on ... [Job  Portal](https://jobsug.netlify.app/)
-- 🔭  ... [My Website](https://justineokumu.vercel.app/)
+- 🔭  ... [My Website](http://okumujustine.com/)
 
 </p>
 <p align="center">
