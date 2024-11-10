@@ -1,7 +1,7 @@
 <h2> Hi, am Justine Okumu 👋 </h2>
 
-- 🔭 Building a Messaging Integrator & Marketing platform... [EazzyConnect](https://eazzyconnect.com)
-- 🔭  ... [My Website](http://okumujustine.com/)
+- 🔭 Building a Messaging Integrator & Marketing platform .. [EazzyConnect](https://eazzyconnect.com)
+- 🔭  .. Check [My Website](http://okumujustine.com/)
 
 </p>
 <p align="center">
