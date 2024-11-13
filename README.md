@@ -3,6 +3,12 @@
 - 🔭 Co building a Messaging Integrator & Marketing platform .. [EazzyConnect](https://eazzyconnect.com)
 - 🔭  .. Check [My Website](http://okumujustine.com/)
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=okumujustine&show_icons=true&theme=tokyo"/>
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=okumujustine&theme=tokyo" />
+</p>
+
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/okumu-justine-b4993b13b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="okumujustine" height="30" width="30" /></a> &nbsp; &nbsp;
@@ -16,8 +22,3 @@
   </a>
   <a href="https://stackoverflow.com/users/7869177/okumu-justine"><img  src="https://stackoverflow.com/users/flair/7869177.png" width="208" height="58" alt="profile for okumu justine at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for okumu justine at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
  </p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=okumujustine&show_icons=true&theme=tokyo"/>
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=okumujustine&theme=tokyo" />
-</p>
