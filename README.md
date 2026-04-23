@@ -1,63 +1,50 @@
 # Justine Okumu
 
-```txt
+```bash
+$ whoami
+Justine Okumu
+
+$ role
 Senior Software Engineer
-Platform · Distributed Systems · Knowledge Infrastructure
+
+$ focus
+Platform · Distributed Systems · Knowledge Systems
 ```
 
----
+<p align="left">
+  <a href="https://github.com/okumujustine/Incharj">
+    <img src="https://img.shields.io/badge/Incharj-Unified%20Enterprise%20Knowledge%20System-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### → Current Focus
-
-Building systems that unify fragmented data and make it searchable, usable, and scalable.
-
-* **Incharj** → unified enterprise knowledge system
-* **Shoplinka** → social commerce via link-based distribution
-
----
-
-### → Projects
-
-**Incharj**
-Search across Google Drive, Slack, Notion — one interface
-https://github.com/okumujustine/Incharj
-
-**Shoplinka**
-https://shoplinka.app/
-
----
-
-### → Systems I Work On
-
-* distributed APIs
-* data ingestion pipelines
-* search & retrieval systems
-* platform tooling
-* observability-first architectures
-
----
-
-### → Stack
+<p align="left">
+  <a href="https://shoplinka.app/">
+    <img src="https://img.shields.io/badge/SHOPLINKA-LIVE%20NOW-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://shoplinka.app/">
+    <img src="https://img.shields.io/badge/social%20commerce-link%20distribution-f59e0b?style=for-the-badge" />
+  </a>
+</p>
 
 ```txt
-Python · TypeScript
-FastAPI · Node.js · Django
-React · Next.js
-PostgreSQL · Redis
-Docker · AWS · GCP
+> building
+Incharj    unified enterprise knowledge system
+Shoplinka  social commerce platform
 ```
 
----
+```txt
+> systems
+APIs · Data Pipelines · Search & Retrieval · Platform Tooling · Observability
+```
 
-### → Signal
+```txt
+> stack
+Python · TypeScript · FastAPI · Node.js · Django · React · Next.js · PostgreSQL · Redis · Docker · AWS · GCP
+```
 
-* builds production systems
-* focuses on scalability and integration
-* prefers simple architectures that evolve well
-
----
-
-### → Contact
-
-https://okumujustine.com
-https://github.com/okumujustine
+```txt
+> links
+Incharj   https://github.com/okumujustine/Incharj
+Shoplinka https://shoplinka.app/
+Portfolio https://okumujustine.com
+```
